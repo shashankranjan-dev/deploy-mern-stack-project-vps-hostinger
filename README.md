@@ -252,9 +252,7 @@ certbot renew --dry-run
 
 If you still need help with deployment or encounter any issues, feel free to reach out:
 
-```
 📧 **Email:** [shashankranjan970832@gmail.com](mailto:shashankranjan970832@gmail.com)
-```
 
 ---
 
